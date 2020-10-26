@@ -7,7 +7,7 @@ public class Solution {
         
         List <Integer> list =new ArrayList<Integer>();
         list.add(arr[0]); // 무조건들어가니깐..
-        for(int i=0; i< arr.length-1 ;i++)
+        for(int i=0; i< len-1 ;i++)
         {   
            if(arr[i]!=arr[i+1])
             {
