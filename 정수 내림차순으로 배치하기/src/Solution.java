@@ -14,7 +14,7 @@ public class Solution {
             arr[i]= (int)(n%10);
             n/=10;
         }
-        Arrays.sort(arr,Collections.reverseOrder());
+        //Arrays.sort(arr,Collections.reverseOrder());
 	
 	}
 }
